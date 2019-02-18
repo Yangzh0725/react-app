@@ -1,0 +1,30 @@
+.slider-header{ width: 98%;  margin: 0px auto; border:0px solid green;overflow: hidden;}
+
+.FF img{width:100%;display:block;overflow: hidden;}
+
+.content {width: 98%;  margin: 0px auto; border:0px solid red;}
+
+
+
+
+
+ul.nav{ width:99%;border:0px solid red; margin:0px auto;}
+ul.nav li{float:left;text-align: center; border:0px dashed blue; width:33%; margin:0px auto;}
+ul.nav li a{display:block; margin:5px;  padding:6px 0px; margin-top:0px;
+background-color:#FFF; 
+}
+ul.nav li .ChannelName{ text-align:center;  height:25px; border:0px dashed red; padding:3px;}
+ul.nav li .ChannelIcon{
+    text-align: center;
+	font-weight: bold;
+	overflow:hidden;
+	background: white center center no-repeat; 
+	padding: 8px;
+	color:#FFFFFF;
+	margin:auto;
+}
+ul.nav li .ChannelIcon img{ 
+vertical-align:middle; margin-bottom: 2px; 	width:100%;
+}
+.l-content{clear:both;}
+/* .ChannelName{ font-size:18px; line-height: 1.5em; vertical-align:middle;} */

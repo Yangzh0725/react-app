@@ -1,0 +1,32 @@
+#{border:0;}
+.content {width: 98%;  margin: 0px auto; border:0px solid red;}
+.picture{ width:99%; margin:0px auto }
+.single{ width:99%; margin:0px auto }
+.wxlist{
+	overflow:hidden;
+	border-radius: 5px 5px 10px 10px; -moz-border-radius: 5px 5px 10px 10px; -webkit-border-radius: 5px 5px 10px 10px;-o-border-radius:5px 5px 10px 10px; 
+	border:1px solid #d0d1d4;
+	margin: 10px auto;
+	padding: 8px 8px;
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.25);  -moz-box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.25); -webkit-box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.25);-o-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.25);
+	background: url(../../assets/images/bottom.png) repeat-x scroll left bottom #FFFFFF;
+    background-size:2px auto;}
+
+.wxlist  .ChannelSContent{ line-height: 1.5em; border:0px solid #900; padding:5px 2px; color:#222222; font-size:14px;}
+.clear { display:block; clear:both;}
+
+
+.AA{text-align:center;}
+.AA img{width:250px;height:140px;border:1px solid #d1d1d1;}
+
+
+
+
+
+
+
+
+
+
+
+

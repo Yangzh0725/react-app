@@ -1,0 +1,16 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './assets/css/style.css';
+import App from './computents/App';
+import {BrowserRouter,Route} from "react-router-dom";
+
+
+
+
+ReactDOM.render(
+    <BrowserRouter>
+        <Route component={App} />
+    </BrowserRouter>
+    ,
+    document.getElementById('root')
+);
